@@ -9,7 +9,7 @@ var config = {
       core_asset: "ONS",
       address_prefix: "ONS",
       chain_id:
-        "64d2b253d3d608966feba7a2cdceba38ad97156fd8ace9cd06203d82aea8ff50"
+        "63ebe72f626d7fc4d66e734b14ddfbe2955317279c008817a38d069e73131feb"
     },
     Muse: {
       core_asset: "MUSE",
